@@ -26,7 +26,7 @@ The UI/UX is really simple and self explanatory, the user will not face any issu
 ## 📱Screenshots
 ||||
 |:----------------------------------------:|:-----------------------------------------:|:-----------------------------------------: |
-| ![Imgur](screenshotHomeScreen.png) | ![Imgur](Screenshots/2nd.png) | ![Imgur](Screenshots/3rd.png) |
+| ![Imgur](Screenshots/2nd.png) | ![Imgur](Screenshots/3rd.png) |
 | ![Imgur](Screenshots/4th.png) | ![Imgur](Screenshots/5th.png) | ![Imgur](Screenshots/6th.png) |
 
 ## 🤔 How it works?
