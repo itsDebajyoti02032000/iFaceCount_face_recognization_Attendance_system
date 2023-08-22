@@ -1,5 +1,3 @@
-![Banner_final](https://user-images.githubusercontent.com/62587060/170310091-19c3c843-f859-42fb-898f-1b3ea5b7005d.png)
-
 iFaceCount - intelligent face count system
 This is an Android Application developed for Microsoft Intern Engage 2022 Programme.<br />
 It's an Smart Attendance App that is powered by face recognition technology.<br />
@@ -35,11 +33,3 @@ The UI/UX is really simple and self explanatory, the user will not face any issu
 - These node from users is then used during facial recognition<br />
 - During facial recognition, the embeddings obtained from the person in the camera is used to calculate the euclidean distance between the person and the list of embeddings in the Firebase   RealTime Database.<br />
 - If the distance is less than 1.0f and also the Key -> userID of the same hashmap is matched with the current logged in userID then it is success, the attendance is marked.<br />
-- For reference -> [**Follow this Image**](https://drive.google.com/file/d/15HBeACzCfUdXjQGQX_mxmRKToHQLTl-X/view?usp=sharing)
-
-SOFTWARE.
-```
-
-![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
-![ForTheBadge ANDROID](https://forthebadge.com/images/badges/built-for-android.svg)
-![ForTheBadge GIT](https://forthebadge.com/images/badges/uses-git.svg)
