@@ -1,5 +1,4 @@
 iFaceCount - intelligent face count system
-This is an Android Application developed for Microsoft Intern Engage 2022 Programme.<br />
 It's an Smart Attendance App that is powered by face recognition technology.<br />
 The UI/UX is really simple and self explanatory, the user will not face any issues.<br />
 
